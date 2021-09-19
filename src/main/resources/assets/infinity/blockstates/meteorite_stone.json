@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "infinity:block/star_ore"
+      "model": "infinity:block/meteorite_stone"
     }
   }
 }
