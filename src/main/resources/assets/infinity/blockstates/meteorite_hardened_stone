@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "infinity:block/meteorite_hardened_stone"
+      "model": "infinity:block/meteorite_stone"
     }
   }
 }
