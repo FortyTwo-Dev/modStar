@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "   ",
+    "BSB"
+  ],
+  "key": {
+    "B": {
+      "item": "infinity:star_block"
+    },
+    "S": {
+      "tag": "forge:gem/star"
+    }
+  },
+  "result": {
+    "item": "infinity:star_head_pickaxe"
+  }
+}

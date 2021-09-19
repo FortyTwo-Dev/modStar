@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    " S ",
+    " H "
+  ],
+  "key": {
+    "B": {
+      "item": "infinity:star_blade"
+    },
+    "S": {
+      "item": "infinity:star_block"
+    },
+    "H": {
+      "item": "infinity:star_handle_sword"
+    }
+  },
+  "result": {
+    "item": "infinity:star_sword"
+  }
+}

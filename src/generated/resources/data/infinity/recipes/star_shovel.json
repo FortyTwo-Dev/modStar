@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "infinity:star_tools_handle"
+  },
+  "addition": {
+    "item": "infinity:star_head_shovel"
+  },
+  "result": {
+    "item": "infinity:star_shovel"
+  }
+}

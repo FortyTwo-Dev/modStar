@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "infinity:star_block"
+    }
+  ],
+  "result": {
+    "item": "infinity:star",
+    "count": 9
+  }
+}

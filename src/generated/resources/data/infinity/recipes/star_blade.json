@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ",
+    "SNS",
+    "SBS"
+  ],
+  "key": {
+    "S": {
+      "tag": "forge:gem/star"
+    },
+    "N": {
+      "item": "minecraft:netherite_block"
+    },
+    "B": {
+      "item": "infinity:star_block"
+    }
+  },
+  "result": {
+    "item": "infinity:star_blade"
+  }
+}

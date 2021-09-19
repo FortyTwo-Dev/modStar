@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "infinity:item/star_of_puissance"
+  }
+}

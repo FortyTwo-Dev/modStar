@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "infinity:star_helmet",
+    "infinity:star_chestplate",
+    "infinity:star_leggings",
+    "infinity:star_boots"
+  ]
+}

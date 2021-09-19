@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BNB",
+    "NGN",
+    "BNB"
+  ],
+  "key": {
+    "B": {
+      "item": "infinity:star_block"
+    },
+    "N": {
+      "item": "minecraft:nether_star"
+    },
+    "G": {
+      "item": "minecraft:golden_apple"
+    }
+  },
+  "result": {
+    "item": "infinity:star_apple"
+  }
+}

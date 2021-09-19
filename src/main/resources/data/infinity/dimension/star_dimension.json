@@ -1,0 +1,77 @@
+{
+  "type": {
+    "name": "infinity:star_dimension",
+    "ultrawarm": false,
+    "natural": true,
+    "piglin_safe": true,
+    "respawn_anchor_works": true,
+    "bed_works": true,
+    "has_raids": false,
+    "has_skylight": true,
+    "has_ceiling": false,
+    "coordinate_scale": 1,
+    "ambient_light": 0,
+    "logical_height": 256,
+    "effects": "minecraft:overworld",
+    "infiniburn": "minecraft:infiniburn_overworld"
+  },
+  "generator": {
+    "type": "minecraft:noise",
+    "seed": 1405106191,
+    "settings": "minecraft:overworld",
+    "biome_source": {
+      "type": "minecraft:multi_noise",
+      "seed": 1405106191,
+      "altitude_noise": {
+        "firstOctave": -7,
+        "amplitudes": [
+          2,
+          1
+        ]
+      },
+      "temperature_noise": {
+        "firstOctave": -7,
+        "amplitudes": [
+          2,
+          1
+        ]
+      },
+      "humidity_noise": {
+        "firstOctave": -7,
+        "amplitudes": [
+          2,
+          1
+        ]
+      },
+      "weirdness_noise": {
+        "firstOctave": -7,
+        "amplitudes": [
+          2,
+          1
+        ]
+      },
+      "biomes": [
+        {
+          "biome": "minecraft:plains",
+          "parameters": {
+            "altitude": -1,
+            "temperature": 1,
+            "humidity": 0,
+            "weirdness": 0,
+            "offset": 0
+          }
+        },
+        {
+          "biome": "infinity:star_biome",
+          "parameters": {
+            "altitude": 1,
+            "temperature": 1,
+            "humidity": 0,
+            "weirdness": 0,
+            "offset": 0
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BNB",
+    "N N",
+    "S S"
+  ],
+  "key": {
+    "B": {
+      "item": "infinity:star_block"
+    },
+    "N": {
+      "item": "minecraft:netherite_block"
+    },
+    "S": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "item": "infinity:star_leggings"
+  }
+}

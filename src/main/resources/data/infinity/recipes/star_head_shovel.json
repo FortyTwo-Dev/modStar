@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SBS",
+    " S ",
+    "   "
+  ],
+  "key": {
+    "B": {
+      "item": "infinity:star_block"
+    },
+    "S": {
+      "item": "infinity:star"
+    }
+  },
+  "result": {
+    "item": "infinity:star_head_shovel"
+  }
+}

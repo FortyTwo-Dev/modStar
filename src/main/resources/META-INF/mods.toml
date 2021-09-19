@@ -1,0 +1,25 @@
+modLoader="javafml" #mandatory
+loaderVersion="[36,)"
+license="All rights reserved"
+[[mods]] #mandatory
+modId="infinity" #mandatory
+version="${file.jarVersion}" #mandatory
+displayName="star mod" #mandatory
+logoFile="examplemod.png" #optional
+credits="Thanks for this example mod goes to Java" #optional
+authors="c'est moi" #optional
+description='''
+c'est un mod
+'''
+[[dependencies.infinity]] #optional
+    modId="forge" #mandatory
+    mandatory=true #mandatory
+    versionRange="[36,)" #mandatory
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.examplemod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5,1.17)"
+    ordering="NONE"
+    side="BOTH"

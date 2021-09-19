@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "SBS",
+    " T "
+  ],
+  "key": {
+    "S": {
+      "tag": "forge:gem/star"
+    },
+    "B": {
+      "item": "infinity:star_block"
+    },
+    "T": {
+      "item": "infinity:star_tools_handle"
+    }
+  },
+  "result": {
+    "item": "infinity:star_handle_sword"
+  }
+}

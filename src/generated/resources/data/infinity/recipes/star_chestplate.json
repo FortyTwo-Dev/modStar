@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "B B",
+    "NSN",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "infinity:star_block"
+    },
+    "N": {
+      "item": "minecraft:netherite_block"
+    },
+    "S": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "item": "infinity:star_chestplate"
+  }
+}

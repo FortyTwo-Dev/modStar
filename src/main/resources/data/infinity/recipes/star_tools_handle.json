@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "STS",
+    "BTB",
+    "STS"
+  ],
+  "key": {
+    "B": {
+      "item": "infinity:star_block"
+    },
+    "S": {
+      "item": "infinity:star"
+    },
+    "T": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "infinity:star_tools_handle"
+  }
+}

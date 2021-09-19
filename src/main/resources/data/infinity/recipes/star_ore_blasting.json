@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "infinity:star_ore"
+  },
+  "result": "infinity:star",
+  "experience": 10.0,
+  "cookingtime": 750
+}

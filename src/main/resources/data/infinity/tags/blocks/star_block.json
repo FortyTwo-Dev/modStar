@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "infinity:unbreaking_star",
+    "infinity:star_block",
+    "infinity:star_powder_block"
+  ]
+}
