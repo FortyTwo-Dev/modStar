@@ -26,6 +26,8 @@ public class LangGenerator extends LanguageProvider {
         helper.add(ModBlocks.STAR_ORE.get(), "Star Ore");
         helper.add(ModBlocks.STAR_POWDER_BLOCK.get(), "Star Powder Block");
         helper.add(ModBlocks.UNBREAKING_STAR.get(), "Unbreaking Star");
+        helper.add(ModBlocks.METEORITE_HARDENED_STONE.get(), "Meteorite Hardened Stone");
+        helper.add(ModBlocks.METEORITE_STONE.get(), "Meteorite Stone");
 
     }
 
