@@ -22,7 +22,7 @@ public class SpecialItem extends Item {
     public SpecialItem(Properties properties) {
         super(properties);
     }
-    public int util = 10;
+    public int util = 100;
     public int test = 0;
     public int chrono = 0;
     Timer timer = new Timer();
@@ -65,7 +65,7 @@ public class SpecialItem extends Item {
                     public void run() {
                         chrono--;
                         if (chrono == 0) {
-                            util = 10;
+                            util = 100;
                             cancel();
                         }
 
