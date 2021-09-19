@@ -63,11 +63,12 @@ public class SpecialItem extends Item {
                 timer.schedule(new TimerTask() {
                     @Override
                     public void run() {
+                        chrono--;
                         if (chrono == 0) {
                             util = 10;
                             cancel();
                         }
-                        chrono--;
+
                     }
                 }, 1000, 1000);
             //return ActionResult.consume(ItemStack.EMPTY);
