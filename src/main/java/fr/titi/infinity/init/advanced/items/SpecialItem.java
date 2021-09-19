@@ -58,7 +58,6 @@ public class SpecialItem extends Item {
             player.getCooldowns().addCooldown(this, 300*20);
             this.timer = new Timer();
 
-            if (test == 0) {
                 chrono = 300;
 
                 timer.schedule(new TimerTask() {
@@ -71,7 +70,6 @@ public class SpecialItem extends Item {
                         chrono--;
                     }
                 }, 1000, 1000);
-            }
             //return ActionResult.consume(ItemStack.EMPTY);
        }
 
