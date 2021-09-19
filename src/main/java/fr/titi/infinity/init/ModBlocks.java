@@ -30,10 +30,10 @@ public class ModBlocks {
     public static final RegistryObject<Block> UNBREAKING_STAR = createBlock("unbreaking_star", () ->
             new Block(AbstractBlock.Properties.of(Material.METAL).strength(-1f,-1f)));
 
-    public static final RegistryObject<Block> METEORITE_STONE = createBlock("metorite_stone", ()->
+    public static final RegistryObject<Block> METEORITE_STONE = createBlock("meteorite_stone", ()->
             new Block(AbstractBlock.Properties.of(Material.METAL).strength(5f, 20f).harvestTool(ToolType.PICKAXE).harvestLevel(8)));
 
-    public static final RegistryObject<Block> METEORITE_HARDENED_STONE = createBlock("metorite_hardened_stone", ()->
+    public static final RegistryObject<Block> METEORITE_HARDENED_STONE = createBlock("meteorite_hardened_stone", ()->
             new Block(AbstractBlock.Properties.of(Material.METAL).strength(6f, 25f).harvestTool(ToolType.PICKAXE).harvestLevel(10)));
 
 
