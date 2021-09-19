@@ -1,4 +1,4 @@
-6ae02a796630f001a9ad6b580da16e12cbe64957 assets/infinity/lang/en_us.json
+3f36d2282b26224badaf8ff4aac229792349f526 assets/infinity/lang/en_us.json
 dab32bd2659976cc5f11e102038dc0a7785918c2 data/forge/tags/blocks/ore/star_ore.json
 d593bc39fe2b7b9a8f19ee19f06345f02e38b41b data/forge/tags/items/gem/star.json
 c606eb7546a0c2aee880e57fa8ef0234b69811ce data/infinity/advancements/recipes/infinitytab/star.json
@@ -41,7 +41,7 @@ a8cfca99275f89b144f26638259ab7c3bfe4d76c data/infinity/recipes/star_sword.json
 ab29fef37e4f7aafb917dba5da43f763e6b3d209 data/infinity/recipes/star_tools_handle.json
 626a3ed4e622d22e26f1d791478c50cd804ffa21 data/infinity/tags/blocks/star_block.json
 a9db9dd7a690419da3bae45ee94387b6c80d31da data/infinity/tags/items/star_armor.json
-0fa3abe91a99067933d8db28d045f7ab0b03c054 data/infinity/tags/items/star_equipment.json
+0fa3abe91a99067933d8db28d045f7ab0b03c054 data/infinity/tags/items/star_tools.json
 cc64a594a266c61f9b417095b48483644216923f data/minecraft/tags/blocks/acacia_logs.json
 10bdf4ae09461a8befbc6db074f0c87810a179c8 data/minecraft/tags/blocks/anvil.json
 98ed40a9ce70e2db6314eb20b0d798def90cd5ad data/minecraft/tags/blocks/bamboo_plantable_on.json
