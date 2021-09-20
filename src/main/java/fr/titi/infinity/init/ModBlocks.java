@@ -34,7 +34,7 @@ public class ModBlocks {
             new Block(AbstractBlock.Properties.of(Material.METAL).strength(5f, 15f).harvestTool(ToolType.PICKAXE).harvestLevel(8)));
 
     public static final RegistryObject<Block> METEORITE_HARDENED_STONE = createBlock("meteorite_hardened_stone", ()->
-            new Block(AbstractBlock.Properties.of(Material.METAL).strength(6f, 25f).harvestTool(ToolType.PICKAXE).harvestLevel(10)));
+            new Block(AbstractBlock.Properties.of(Material.METAL).strength(10f, 25f).harvestTool(ToolType.PICKAXE).harvestLevel(10)));
 
 
 
