@@ -27,5 +27,7 @@
   "key.categories.infinity": "Infinity Categories",
   "key.infinity.fly_key": "Fly Key Test",
   "tooltip.star_of_puissance.description": "Right Click To Fly",
-  "tooltip.star_of_puissance.hold_shift": "Hold \u00A7eShift \u00A77for More Information"
+  "tooltip.star_of_puissance.hold_shift": "Hold \u00A7eShift \u00A77for More Information",
+  "tooltip.star_sword.description": "Hurt Enemy Give Heal",
+  "tooltip.star_sword.hold_shift": "Hold \u00A7eShift \u00A77for More Information"
 }

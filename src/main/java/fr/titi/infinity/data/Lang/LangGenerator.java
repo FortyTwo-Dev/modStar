@@ -65,6 +65,8 @@ public class LangGenerator extends LanguageProvider {
 
         helper.add("star_of_puissance.description", "Right Click To Fly");
         helper.add("star_of_puissance.hold_shift","Hold \u00A7eShift \u00A77for More Information");
+        helper.add("star_sword.description", "Hurt Enemy Give Heal");
+        helper.add("star_sword.hold_shift","Hold \u00A7eShift \u00A77for More Information");
     }
 
     private void Key(PrefixHelper helper) {
